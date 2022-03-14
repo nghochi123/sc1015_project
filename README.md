@@ -30,57 +30,98 @@ The data collection team uses a series of inclusion criteria to systematically i
 
 ## Questions (General Overview of entire database)
 Who is most likely to be targeted? (Are you at risk of being targeted)
+
 (Multi-variable Categorisation: Best combination to be targeted)
+
 Country
+
 Victim job
+
 Victim job role
+
 Nationality
+
 Where is most likely to be targeted?
+
 (Categorisation)
+
 Country
+
 Religious places
+
 Populated areas
+
 What makes a successful attack? 
+
 (Classification: Success)
+
 Country data
+
 Attack type
+
 Success rate
+
 Target victim information (Victim’s Background)
+
 Perpetrator background 
+
 Location
+
 Suicidal bombing
+
 What happens after, the consequences? 
+
 (Regression: Fatalities + Injuries = Casualties) 
+
 [https://www.mdpi.com/2071-1050/13/14/7598]
+
 Casualties
+
 Damage
+
 Severity
+
 Property Damage Extent
+
 The number of terrorist attacks that are predicted to take place in the future?
+
 (Regression: # of future terrorist attacks)
+
 Terrorist Attacks from now
+
 Motivations
+
 Summary
 
 ## Data Preparation
 * Proper representation for your models ith feature engineering and feature selection
-*Data pre-processing to fix issues - class imbalance, skewness, scale of variables
-Filling in missing values
-Transform / Enrich data (Perhaps find more data)
+* Data pre-processing to fix issues - class imbalance, skewness, scale of variables
+* Filling in missing values
+* Transform / Enrich data (Perhaps find more data)
 
 ## Descriptive Statistics
 Central Tendency
+
 Variability
+
 Correlation
+
 Remove / Predict outliers (If the outliers are not useful)
+
 Visualising data
 
 ## Machine Learning
+
 (Could produce 3 sets from each algo to compare the different results achieved)
+
 Linear Regreesion / Classification
+
 Splitting data sets
+
 Text Classification
+
 kNN Algorithm (For optimization)
+
 K-means clustering (For optimisation)
 
 ## Information Presentation
@@ -88,23 +129,45 @@ K-means clustering (For optimisation)
 ## Ethical Consideration
 
 Miscellaneous
+
 Visualisation Tools
+
 Plotly - Interactive Maps
+
 Folium - Maps
+
 Kepler - 3D Web Maps
+
 Optimisation Tools
+
 Pickle - Save the model
 
 ## References
+
 https://www.start.umd.edu/gtd/analysis/
+
 https://ourworldindata.org/terrorism 
+
 https://realpython.com/python-statistics/ 
+
 Everything on descriptive statistics
+
 https://mv1249.github.io/Task4.html (jupyter notebook using the dataset)
+
 EDA on the dataset, using plotly and folium
+
 https://jovian.ai/zubairsheikh9/global-terrorism#C49 (jupyter notebook using the dataset)
+
 Understanding, Cleaning, and EDA on the dataset, using matplot, seaborn
-https://notebooks.githubusercontent.com/view/ipynb?browser=chrome&color_mode=auto&commit=3dab86eb312bfcb432d45639cac6fe6b48648ea2&device=unknown&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d72696e2d323630312f4c474d5649502d2d446174612d536369656e63652f336461623836656233313262666362343332643435363339636163366665366234383634386561322f5461736b253230322532302d2532304578706c6f7261746f727925323044617461253230416e616c797369732532306f6e253230446174617365742532302d253230546572726f7269736d2e6970796e62&logged_in=false&nwo=mrin-2601%2FLGMVIP--Data-Science&path=Task+2+-+Exploratory+Data+Analysis+on+Dataset+-+Terrorism.ipynb&platform=android&repository_id=395616175&repository_type=Repository&version=98 
+
+https://notebooks.githubusercontent.com/view/ipynb?browser=chrome&color_mode=auto&commit=3dab86eb312bfcb432d45639cac6fe6b48648ea2&device=unknown&
+enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d72696e2d323630312f4c474d5649502d2d446174612d536369656e63652f3364616238366562333132626663
+62343332643435363339636163366665366234383634386561322f5461736b253230322532302d2532304578706c6f7261746f727925323044617461253230416e616c797369732532306f6e25323044617461
+7365742532302d253230546572726f7269736d2e6970796e62&logged_in=false&nwo=mrin-2601%2FLGMVIP--Data-Science&
+path=Task+2+-+Exploratory+Data+Analysis+on+Dataset+-+Terrorism.ipynb&platform=android&repository_id=395616175&repository_type=Repository&version=98 
+
 EDA on the dataset using matplot
+
 https://prisma.dcc.uchile.cl/cursoMD/2019-1/Analisis%20de%20Terrorismo%20%20en%20el%20Mundo/ (jupyter notebook using the dataset)
+
 Has EDA, Classification, Clustering and Association Rules (Quite extensive)

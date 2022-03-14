@@ -14,6 +14,7 @@ If you are attempting something different, especially something that you think d
 
 ## Dataset Collection
 [About the GTD](https://www.start.umd.edu/gtd/)
+
 Managed by the National Consortium for the Study of Terrorism and Responses to Terrorism (START), the Global Terrorism Database™ includes more than 200,000 terrorist attacks dating back to 1970. Read about the history of the GTD below.
 
 The Global Terrorism Database (GTD)™ is the most comprehensive unclassified database of terrorist attacks in the world. The National Consortium for the Study of Terrorism and Responses to Terrorism (START) makes the GTD available via this site in an effort to improve understanding of terrorist violence, so that it can be more readily studied and defeated. The GTD is produced by a dedicated team of researchers and technical staff.

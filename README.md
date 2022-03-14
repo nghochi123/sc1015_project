@@ -13,7 +13,7 @@ This evaluation will be used as a "scaling factor" for your overall score.
 If you are attempting something different, especially something that you think do not fit naturally into the grading scheme, feel free to discuss with your Lab TA directly. They will mentor you and also grade your project.
 
 ## Dataset Collection
-About the GTD (https://www.start.umd.edu/gtd/)
+[About the GTD](https://www.start.umd.edu/gtd/)
 Managed by the National Consortium for the Study of Terrorism and Responses to Terrorism (START), the Global Terrorism Database™ includes more than 200,000 terrorist attacks dating back to 1970. Read about the history of the GTD below.
 
 The Global Terrorism Database (GTD)™ is the most comprehensive unclassified database of terrorist attacks in the world. The National Consortium for the Study of Terrorism and Responses to Terrorism (START) makes the GTD available via this site in an effort to improve understanding of terrorist violence, so that it can be more readily studied and defeated. The GTD is produced by a dedicated team of researchers and technical staff.
@@ -26,7 +26,7 @@ The GTD defines terrorism as:
 
 The data collection team uses a series of inclusion criteria to systematically identify events for inclusion in the database. More information about the data collection process can be found in the GTD Codebook.
 
-*** Some analysis that they have already done (https://www.start.umd.edu/gtd/analysis/) 
+[Some analysis that they have already done](https://www.start.umd.edu/gtd/analysis/) 
 
 ## Questions (General Overview of entire database)
 Who is most likely to be targeted? (Are you at risk of being targeted)

@@ -175,3 +175,5 @@ EDA on the dataset using matplot
 https://prisma.dcc.uchile.cl/cursoMD/2019-1/Analisis%20de%20Terrorismo%20%20en%20el%20Mundo/ (jupyter notebook using the dataset)
 
 Has EDA, Classification, Clustering and Association Rules (Quite extensive)
+
+http://rstudio-pubs-static.s3.amazonaws.com/336829_1097dfdfc03345c4aeb47081653ac1bb.html

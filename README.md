@@ -177,3 +177,6 @@ https://prisma.dcc.uchile.cl/cursoMD/2019-1/Analisis%20de%20Terrorismo%20%20en%2
 Has EDA, Classification, Clustering and Association Rules (Quite extensive)
 
 http://rstudio-pubs-static.s3.amazonaws.com/336829_1097dfdfc03345c4aeb47081653ac1bb.html
+https://medium.com/swlh/global-terrorism-study-exploratory-and-descriptive-data-analysis-4e5a1d8b473d
+https://www.kaggle.com/srinidhi14vaddy/global-terrorism-database-study
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html

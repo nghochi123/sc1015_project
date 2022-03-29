@@ -146,6 +146,18 @@ Optimisation Tools
 
 Pickle - Save the model
 
+
+## Things we tried to solve our shit
+- Top features that we select (clean them only) instead of cleaning the entire dataset at once (Dropping too many points)
+- Work our way up from the most important feature (1,2,3...5)
+- Rebalancing the dataset (re-evaluating the number of success and failures)
+    - Weighted for reimbalancing
+- Double check the library versioning
+    - requirement.txt (Issue comes because of different OS)
+    - Ill use Windows + env
+- Split the Neural Network Model into another notebook
+    - Prevent kernel from failing
+
 ## References
 
 https://www.start.umd.edu/gtd/analysis/

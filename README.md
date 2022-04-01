@@ -147,7 +147,7 @@ Optimisation Tools
 Pickle - Save the model
 
 
-## Things we tried to solve our shit
+## Challenges that we faced + Solutions tri
 - Top features that we select (clean them only) instead of cleaning the entire dataset at once (Dropping too many points)
 - Work our way up from the most important feature (1,2,3...5)
 - Rebalancing the dataset (re-evaluating the number of success and failures)
@@ -165,30 +165,27 @@ https://www.start.umd.edu/gtd/analysis/
 https://ourworldindata.org/terrorism 
 
 https://realpython.com/python-statistics/ 
-
-Everything on descriptive statistics
+- Everything on descriptive statistics
 
 https://mv1249.github.io/Task4.html (jupyter notebook using the dataset)
-
-EDA on the dataset, using plotly and folium
+- EDA on the dataset, using plotly and folium
 
 https://jovian.ai/zubairsheikh9/global-terrorism#C49 (jupyter notebook using the dataset)
-
-Understanding, Cleaning, and EDA on the dataset, using matplot, seaborn
+- Understanding, Cleaning, and EDA on the dataset, using matplot, seaborn
 
 https://notebooks.githubusercontent.com/view/ipynb?browser=chrome&color_mode=auto&commit=3dab86eb312bfcb432d45639cac6fe6b48648ea2&device=unknown&
 enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d72696e2d323630312f4c474d5649502d2d446174612d536369656e63652f3364616238366562333132626663
 62343332643435363339636163366665366234383634386561322f5461736b253230322532302d2532304578706c6f7261746f727925323044617461253230416e616c797369732532306f6e25323044617461
 7365742532302d253230546572726f7269736d2e6970796e62&logged_in=false&nwo=mrin-2601%2FLGMVIP--Data-Science&
 path=Task+2+-+Exploratory+Data+Analysis+on+Dataset+-+Terrorism.ipynb&platform=android&repository_id=395616175&repository_type=Repository&version=98 
-
-EDA on the dataset using matplot
+- EDA on the dataset using matplot
 
 https://prisma.dcc.uchile.cl/cursoMD/2019-1/Analisis%20de%20Terrorismo%20%20en%20el%20Mundo/ (jupyter notebook using the dataset)
-
-Has EDA, Classification, Clustering and Association Rules (Quite extensive)
+- Has EDA, Classification, Clustering and Association Rules (Quite extensive)
 
 http://rstudio-pubs-static.s3.amazonaws.com/336829_1097dfdfc03345c4aeb47081653ac1bb.html
 https://medium.com/swlh/global-terrorism-study-exploratory-and-descriptive-data-analysis-4e5a1d8b473d
 https://www.kaggle.com/srinidhi14vaddy/global-terrorism-database-study
 https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html
+https://www.hindawi.com/journals/complexity/2020/1373087/
+- Prediction of Future Terrorist Activities Using Deep Neural Networks

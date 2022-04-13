@@ -5,7 +5,6 @@
 This is our mini-project for SC1015 (Intro to Data Science and Artificial Intelligence).
 
 ### Contributors (SC7 Group 10)
----
 @nghochi123<br>
 @Mel-NLY
 
@@ -20,7 +19,7 @@ Here's the sequence of files that we'd recommend for you to look through:<br>
 ---
 The dataset is called the Global Terrorism Database, obtained from the National Consortium for the Study of Terrorim and Responses to Terrorism ([START](https://www.start.umd.edu/gtd/)).
 
-Maintained by researchers headquartered at the University of Maryland. 
+Maintained by researchers headquartered at the University of Maryland. The dataset consits of information on more than <b>200,000</b> global terrorist attacks.
 
 ## Problem Definition + Motivation
 ---
@@ -69,19 +68,17 @@ Retaliation was found to be the most common of motives among the terrorists.
 [Plotly](https://plotly.com/) - Interactive Web-based Visualizations<br>
 [Pickle](https://docs.python.org/3/library/pickle.html) - Serializing and deserializing object structures
 
-## Challenges that we faced + Solutions tri
-- Top features that we select (clean them only) instead of cleaning the entire dataset at once (Dropping too many points)
-- Work our way up from the most important feature (1,2,3...5)
-- Rebalancing the dataset (re-evaluating the number of success and failures)
-    - Weighted for reimbalancing
-- Double check the library versioning
-    - requirement.txt (Issue comes because of different OS)
-    - Ill use Windows + env
+## Lessons Learnt
+---
+- We used all the rows initially for dataset cleaning, which resulted in us dropping too many points. Instead we first picked out the relevant columns, then cleaned those values. Resulting in us obtaining a fuller dataset.
+- Dataset had an imbalance in number of failed and successful columns. Resulting in us having to use weights for rebalancing.
+- Library versioning could've been affecting the results obtained on different OS (Mac/Windows). Therefore, this required us to check the requirement.txt, tried to shift to a Windows device, and make use of Google Collab.
+- Initially, we had all of our codes in a file, which resulted in our neural network not having enough memory to run (and the kernel failing). Hence we split up the code files into different Jupyter Notebook files.
 - Split the Neural Network Model into another notebook
-    - Prevent kernel from failing
 
 ## References
 ---
-https://www.start.umd.edu/gtd/analysis/
-https://ourworldindata.org/terrorism 
+https://www.start.umd.edu/gtd/analysis/<br>
+https://ourworldindata.org/terrorism <br>
 https://realpython.com/python-statistics/<br>
+https://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/</br>

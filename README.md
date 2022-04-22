@@ -17,7 +17,7 @@ Here's the sequence of files that we'd recommend for you to look through. There 
 
 ## Dataset
 ---
-The dataset is called the Global Terrorism Database, obtained from the National Consortium for the Study of Terrorim and Responses to Terrorism ([START](https://www.start.umd.edu/gtd/)).
+The dataset is called the Global Terrorism Database, obtained from the National Consortium for the Study of Terrorism and Responses to Terrorism ([START](https://www.start.umd.edu/gtd/)).
 
 Maintained by researchers headquartered at the University of Maryland. The dataset consists of information on more than <b>200,000</b> global terrorist attacks.
 
